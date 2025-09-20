@@ -14,6 +14,6 @@ Documentation can be found at https://support.buildstash.com/docs
 
 Some helpful links to key open source integrations are below:
 
-[GitHub Actions - Upload to Buildstash action](https://github.com/Buildstash/upload-to-buildstash)
-[Fastlane plugin](https://github.com/Buildstash/fastlane-plugin-buildstash)
-[Azure DevOps Pipelines extension](https://github.com/Buildstash/azure-devops-extension)
+- [GitHub Actions - Upload to Buildstash action](https://github.com/Buildstash/upload-to-buildstash)
+- [Fastlane plugin](https://github.com/Buildstash/fastlane-plugin-buildstash)
+- [Azure DevOps Pipelines extension](https://github.com/Buildstash/azure-devops-extension)
