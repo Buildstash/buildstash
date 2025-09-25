@@ -1,5 +1,5 @@
 # Buildstash
-<img width="1200" height="630" alt="screen_01" src="https://github.com/user-attachments/assets/32011163-9ec6-461b-959b-7c5717fa8691" />
+<a href="https://buildstash.com"><img width="1200" height="630" alt="screen_01" src="https://github.com/user-attachments/assets/32011163-9ec6-461b-959b-7c5717fa8691" /></a>
 
 ## Introduction
 
